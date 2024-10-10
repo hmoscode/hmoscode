@@ -15,7 +15,7 @@ const Harold = {
   code: [Javascript, Typescript],
   tools: [React, Node, NestJs,Nextjs,Mongo,Sql],
   architecture: ["Aws", "RDS", "S3","EC2"],
- challenge: "I'm working on a personal blogging project called "inner""
+ challenge: "I'm working on a personal blogging project called inner"
 }
 ```
 ---
