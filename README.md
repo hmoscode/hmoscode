@@ -4,7 +4,6 @@
 <p><em>Software Engineer at <a href="https://itp.edu.co/ITP2022/">Instituto Tecnológico del Putumayo</a> 
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><br>
     Backend Software Developer at <a href="https://www.simplest.guru/">Simplest inc</a> 
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: HaroldMosquera](https://img.shields.io/badge/-HaroldMosquera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harold-mosquera-88661925a/)](https://www.linkedin.com/in/harold-mosquera-88661925a/)
