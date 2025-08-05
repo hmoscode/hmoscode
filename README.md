@@ -17,7 +17,7 @@ const Harold = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "Python"],
   tools: ["React", "Next.js", "NestJS", "Node.js", "Flask"],
-  databases: ["MongoDB", "SQL"],
+  databases: ["MongoDB", "SQL","Redis"],
   architecture: ["AWS", "RDS", "S3", "EC2"],
   challenge: "I'm working on a personal blogging project called inner"
 }
